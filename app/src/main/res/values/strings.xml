@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">IMCCalculator</string>
+    <string name="imc_baixo">Abaixo do Peso</string>
+    <string name="imc_nomral">Peso Normal</string>
+    <string name="imc_alto">Acima do Peso</string>
+    <string name="imc_obesidade_I">Obesidade Grau I</string>
+    <string name="imc_obesidade_II">Obesidade Grau II (Severa)</string>
+    <string name="imc_obesidade_III">Obesidade Grau III (Mórbida)</string>
+    <string name="insira_peso">Insira o peso</string>
+    <string name="insira_altura">Insira a altura</string>
+    <string name="insira_peso_kg">Insira um valor válido para o peso em quilogramas(kg)</string>
+    <string name="insira_altura_cm">Insira um valor válido para a altura em centímetros(cm)</string>
+    <string name="seu_imc">Seu IMC é:</string>
+    <string name="tentar_novamente">Tentar Novamente?</string>
+    <string name="imagem_imc_status">imagem de alerta do IMC</string>
 </resources>
