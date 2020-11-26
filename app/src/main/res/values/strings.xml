@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IMCCalculator</string>
+    <string name="app_name">IMC Calc</string>
     <string name="imc_baixo">Abaixo do Peso</string>
     <string name="imc_nomral">Peso Normal</string>
     <string name="imc_alto">Acima do Peso</string>
@@ -13,4 +13,5 @@
     <string name="seu_imc">Seu IMC é:</string>
     <string name="tentar_novamente">Tentar Novamente?</string>
     <string name="imagem_imc_status">imagem de alerta do IMC</string>
+    <string name="app_icon">App icon</string>
 </resources>
